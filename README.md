@@ -60,53 +60,49 @@ mvn exec:java -Dexec.mainClass="com.example.Main"
 gradle run
 ```
 
-> Pastikan untuk mengganti `com.example.Main` dengan nama kelas utama (main class) yang sesuai pada project Anda.
-
 ## Struktur Direktori
-
-.
-└── 📁Java
-└── 📁Age Calculator
-└── Age-Calculator.java
-└── 📁Anagrams
-└── Anagrams.java
-└── 📁Calculator
-└── Calculator.java
-└── 📁Converter
-└── Converter.java
-└── 📁Daftar Mahasiswa
-└── Daftar-Mahasiswa-Improve.java
-└── Daftar-Mahasiswa.java
-└── 📁Diagnosa Sederhana
-└── Diagnosa.java
-└── 📁Matrix
-└── MatrixProgram.java
-└── 📁Menu Makanan
-└── Menu-Makanan.java
-└── 📁Oil Calculate
-└── Vehicle.java
-└── VehicleTester.java
-└── 📁PossibleSolution
-└── Card.java
-└── Deck.java
-└── Hand.java
-└── Main.java
-└── 📁Rata-rata
-└── Rata.java
-└── 📁Shape
-└── Main.java
-└── Shape.java
-└── 📁Spelling Word
-└── Spelling.java
-└── 📁String
-└── String.java
-└── 📁Super Class
-└── Cat.java
-└── Dog.java
-└── Main.java
-└── SuperClass.java
-└── 📁User Login
-└── User-Login.java
+Java
+├── Age Calculator/
+│   └── AgeCalculator.java
+├── Anagrams/
+│   └── Anagrams.java
+├── Calculator/
+│   └── Calculator.java
+├── Converter/
+│   └── Converter.java
+├── Daftar Mahasiswa/
+│   └── DaftarMahasiswaImprove.java
+│   └── DaftarMahasiswa.java
+├── Diagnosa Sederhana/
+│   └── Diagnosa.java
+├── Matrix/
+│   └── MatrixProgram.java
+├── Menu Makanan/
+│   └── MenuMakanan.java
+├── Oil Calculate/
+│   └── Vehiclde.java
+│   └── VehicleTester.java
+├── PossibleSolution/
+│   └── Card.java
+│   └── Deck.java
+│   └── Hand.java
+│   └── Main.java
+├── Rata-Rata/
+│   └── RataRata.java
+├── Shape/
+│   └── Main.java
+│   └── Shape.java
+├── Spelling Word/
+│   └── Spelling.java
+├── String/
+│   └── String.java
+├── Super Class/
+│   └── Cat.java
+│   └── Dog.java
+│   └── Main.java
+│   └── SuperClass.java
+├── User Login/
+│   └── UserLogin.java
 └── README.md
 
 ## Kontribusi
@@ -121,9 +117,4 @@ Project ini menggunakan lisensi MIT. Silakan lihat file [LICENSE](LICENSE) untuk
 
 Untuk pertanyaan atau masukan, silakan hubungi:
 
-- Nama: Valerian Ahmad
 - Instagram: @valeriaanaf
-
-```
-
-```
