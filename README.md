@@ -61,6 +61,6 @@ Java
 └── README.md
 ```
 
-## Demo
+## Instagram
 
 (https://www.instagram.com/valeriaanaf/)
