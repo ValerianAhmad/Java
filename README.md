@@ -61,6 +61,7 @@ gradle run
 ```
 
 ## Struktur Direktori
+```
 Java
 ├── Age Calculator/
 │   └── AgeCalculator.java
@@ -104,6 +105,7 @@ Java
 ├── User Login/
 │   └── UserLogin.java
 └── README.md
+```
 
 ## Kontribusi
 
