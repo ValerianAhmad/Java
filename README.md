@@ -14,52 +14,6 @@ Repository ini merupakan contoh project Java yang dikembangkan untuk menunjukkan
 - Unit testing dengan JUnit
 - Contoh konfigurasi CI/CD (Continuous Integration)
 
-## Instalasi
-
-### Prasyarat
-
-- Java JDK 11 atau lebih baru
-- [Maven](https://maven.apache.org/) atau [Gradle](https://gradle.org/) (pilih salah satu)
-- Git (untuk clone repository)
-
-### Langkah Instalasi
-
-1. Clone repository ini:
-
-   ```bash
-   git clone https://github.com/ValerianAhmad/java/
-   cd nama-repo-anda
-   ```
-
-2. Compile dan jalankan test:
-   **Jika menggunakan Maven:**
-
-   ```bash
-   mvn clean install
-   ```
-
-   **Jika menggunakan Gradle:**
-
-   ```bash
-   gradle build
-   ```
-
-## Cara Penggunaan
-
-Setelah proses build berhasil, Anda dapat menjalankan aplikasi dengan perintah berikut:
-
-**Maven:**
-
-```bash
-mvn exec:java -Dexec.mainClass="com.example.Main"
-```
-
-**Gradle:**
-
-```bash
-gradle run
-```
-
 ## Struktur Direktori
 ```
 Java
@@ -107,16 +61,7 @@ Java
 └── README.md
 ```
 
-## Kontribusi
-
-Kontribusi sangat terbuka! Silakan fork repository ini dan ajukan pull request untuk fitur atau perbaikan baru.
-
-## Lisensi
-
-Project ini menggunakan lisensi MIT. Silakan lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
-
-## Kontak
-
-Untuk pertanyaan atau masukan, silakan hubungi:
-
-- Instagram: @valeriaanaf
+## Instagram
+```
+@valeriaanaf
+```
